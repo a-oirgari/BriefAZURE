@@ -58,6 +58,10 @@ Captures d’écran des principales étapes réalisées durant la deuxième phas
 
 ![14_training_and_scoring_workflow.png](images/14_training_and_scoring_workflow.png)
 
-## 15. métriques d'évaluation.
+## 15. Affichage des métriques d'évaluation du modèle de régression : coefficient de détermination (R²), MAE, erreur absolue relative, erreur quadratique relative et RMSE.
 
-![15_evaluation.png](images/15_evaluation.png)
+![15_model_evaluation.png](images/15_model_evaluation.png)
+
+## 16. Configuration du pipeline d'inférence avec les composants Score Model et Web Service Output pour générer les prédictions et préparer leur exposition via un service web.
+
+![16_inference_pipeline.png](images/16_inference_pipeline.png)
